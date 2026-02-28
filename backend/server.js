@@ -1,3 +1,4 @@
+import connectDB from "./config/db.js";
 import express from "express"
 import mongoose from "mongoose"
 import cors from "cors"
